@@ -1,0 +1,111 @@
+<?xml version="1.0" encoding="UTF-8"?>
+    <skills_list>
+        <skill>
+            <number>1.</number>  
+            <description>Базовая теория (Что такое тестирование, багрепорты, документация, виды, методы, направления тестирования и т.п.) SDLC, STLC</description>  
+        </skill>
+        <skill>
+            <number>2.</number>  
+            <description>Что такое клиент-серверная архитектура</description>  
+        </skill>
+        <skill>
+            <number>3.</number>  
+            <description>HTTP Методы запросов на сервер</description>  
+        </skill>
+        <skill>
+            <number>4.</number>  
+            <description>Коды ответов HTTP сервера</description>  
+        </skill>
+        <skill>
+            <number>5.</number>  
+            <description>Структуры HTTP запросов и ответов</description>  
+        </skill>
+        <skill>
+            <number>6.</number>  
+            <description>Что такое JSON, XML. Их структура</description>  
+        </skill>
+        <skill>
+            <number>7.</number>  
+            <description>Тестирование API через Postman (JS, автотесты API)</description>  
+        </skill>
+        <skill>
+            <number>8.</number>  
+            <description>Снятие и чтение логов c внешнего сервера</description>  
+        </skill>
+        <skill>
+            <number>9.</number>  
+            <description>Снифинг http web трафика через Charles и Fiddler</description>  
+        </skill>
+        <skill>
+            <number>10.</number>  
+            <description>Dev Tools веб браузеров (Google Chrome, FireFox)</description>  
+        </skill>
+        <skill>
+            <number>11.</number>  
+            <description>VPN. (Как работает, зачем нужен, как использовать, варианты инструментов)</description>  
+        </skill>
+        <skill>
+            <number>12.</number>  
+            <description>Мобильное тестирование</description>  
+        </skill>
+        <skill>    
+            <number>13.</number>  
+            <description>Особенность iOS, Android, гайдлайны</description>  
+        </skill>
+        <skill>    
+            <number>14.</number>  
+            <description>Сборка iOS приложений на XCode. (У кого нет Mac компьютера, просто посмотрят)</description>  
+        </skill>
+        <skill>    
+            <number>15.</number>  
+            <description>Сборка Android приложений на Android Studio</description>  
+        </skill>
+        <skill>    
+            <number>16.</number>  
+            <description>ADB (управление андройд девайсами)</description>  
+        </skill>
+        <skill>    
+            <number>17.</number>  
+            <description>Настройка прокси и vpn на iOS и Android</description>  
+        </skill>
+        <skill>    
+            <number>18.</number>  
+            <description>Перехват (сниффинг) мобильного трафика через Charles и Fiddler на iOS и Android</description>  
+        </skill>
+        <skill>    
+            <number>19.</number>  
+            <description>Командная строка (terminal) Linux (копирование, создание, просмотр, перемещение файлов на серверах без графического интерфейса)</description>  
+        </skill>
+        <skill>    
+            <number>20.</number>  
+            <description>Основы bash скриптинг, автоматизация рутинных задач на сервере</description>  
+        </skill>
+        <skill>    
+            <number>21.</number>  
+            <description>Доступ к удалённым серверам</description>  
+        </skill>
+        <skill>    
+            <number>22.</number>  
+            <description>Основы SQL (Create, Delete, Drop, Insert Into, Select, From, Where, Join)</description>  
+        </skill>
+        <skill>    
+            <number>23.</number>  
+            <description>База данных Postgres (установка, настройка и использование)</description>  
+        </skill>
+        <skill>    
+            <number>24.</number>  
+            <description>Нереляционная база данных Redis (установка, настройка и использование)</description>  
+        </skill>
+        <skill>    
+            <number>25.</number>  
+            <description>агрузочное тестирование в Jmeter</description>  
+        </skill>
+        <skill>    
+            <number>26.</number>  
+            <description>Методология разработки Scrum</description>  
+        </skill>
+        <skill>    
+            <number>27.</number>  
+            <description>Python. (Изучение основ. Создание клиент серверного приложения)</description>
+        </skill>
+    </skills_list>

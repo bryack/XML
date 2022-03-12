@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+    <preferences> 
+	<favorite_movie>
+            <question>Your favorite movie?</question>
+            <answer>Scream</answer>
+        </favorite_movie>
+	<favorite_show>
+            <question>Your favorite TV show?</question>
+            <answer>True Detective</answer>
+        </favorite_show>
+	<favotite_food>
+            <question>Your favorite food?</question>
+            <answer>Potato</answer>
+        </favotite_food>
+        <favorite_season>
+            <question>Your favorite season?</question>
+            <answer>Summer</answer>
+        </favorite_season>
+        <country_to_visit>
+            <question>What country would you like to visit?</question>
+            <answer>USA</answer>
+        </country_to_visit>
+    </preferences>
+
