@@ -1,1 +1,56 @@
-
+<?xml version="1.0" encoding="UTF-8"?>
+<bug_report>
+    <summary>
+        <title_first_lvl>Summary</title_first_lvl>
+        <text>Main page: Button 'Login' doesn't click</text>
+    </summary>
+    <description>
+        <title_first_lvl>Description</title_first_lvl>
+        <str>
+            <title_second_lvl>STR</title_second_lvl>
+            <text>
+                1. Open the Main page
+                2. Click the 'Login' button
+            </text>
+        <result>
+            <title_second_lvl>Result</title_second_lvl>
+            <text>Button 'Login' doesn't click</text>
+        <result>
+        <expected_result>
+            <title_second_lvl>Expected result</title_second_lvl>
+            <text>Button 'Login' is clicked according to requirement №1</text>
+        </expected_result>
+    </description>
+    <project>
+        <title_first_lvl>Project</title_first_lvl>
+        <text>My Site</text>
+    </project>
+    <component>
+        <title_first_lvl>Component</title_first_lvl>
+        <text>Login</text>
+    </component>
+    <build>
+        <title_first_lvl>Build</title_first_lvl>
+        <text>1.0</text>
+    </build>
+    <severity>
+        <title_first_lvl>Severity</title_first_lvl>
+        <text>Blocker</text>
+    </severity>
+    <priority>
+        <title_first_lvl>Priority</title_first_lvl>
+        <text>High</text>
+    </priority>
+    <author>
+        <title_first_lvl>Author</title_first_lvl>
+        <text>Anna Nurgaleeva</text>
+    </author>
+    <sigh_to>
+        <title_first_lvl>Sigh to</title_first_lvl>
+        <text>Developer</text>
+    </sigh_to>
+    <environment>
+        <title_first_lvl>Environment</title_first_lvl>
+        <text>Windows 8.1 x64</text>
+    </environment>
+<bug_report>
