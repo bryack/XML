@@ -12,10 +12,11 @@
                 1. Open the Main page
                 2. Click the 'Login' button
             </text>
+        </str>    
         <result>
             <title_second_lvl>Result</title_second_lvl>
             <text>Button 'Login' doesn't click</text>
-        <result>
+        </result>
         <expected_result>
             <title_second_lvl>Expected result</title_second_lvl>
             <text>Button 'Login' is clicked according to requirement №1</text>
